@@ -391,8 +391,8 @@ DEPENDENCIES
   rubocop-rails-omakase
   selenium-webdriver
   solid_cable
-  solid_cache
-  solid_queue
+  solid_cache (~> 1.0, >= 1.0.1)
+  solid_queue (~> 1.0)
   stimulus-rails
   thruster
   turbo-rails
